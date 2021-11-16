@@ -35531,7 +35531,7 @@ F.a3P.prototype={
 $0(){K.v8(this.a).pC(0,null)},
 $S:0}
 F.Ef.prototype={
-L(a,b){return new S.uK(C.BU,"Flutter Demo",X.ai5(null,C.eC),!1,null)}}
+L(a,b){return new S.uK(C.BU,"BST(BMI/Watch/Todo)",X.ai5(null,C.eC),!1,null)}}
 F.u4.prototype={
 aC(){return new F.Kg(H.a([new Y.rJ(null),new N.wB(null),new N.x_(null)],t.Nb),C.m)}}
 F.Kg.prototype={
